@@ -56,7 +56,7 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="A11.2020.80001"
+        android:text="A11.2020.80002"
         android:textAlignment="center"
         android:textSize="18sp"
         app:layout_constraintTop_toBottomOf="@+id/textView3"
@@ -67,7 +67,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Hobby : Fotografi, Menonton Film"
+        android:text="Hobby : tidur"
         android:textSize="18sp"
         app:layout_constraintTop_toBottomOf="@+id/textView4"
         tools:layout_editor_absoluteX="51dp" />
@@ -76,7 +76,7 @@
         android:id="@+id/textView6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Saya merupakan mahasiswa Udinus yang saat ini sedang membuat aplikasi Biodata."
+        android:text="deskripsi."
         android:textSize="18sp"
         app:layout_constraintTop_toBottomOf="@+id/textView5"
         tools:layout_editor_absoluteX="16dp" />
